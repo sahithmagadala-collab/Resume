@@ -2,10 +2,6 @@
 
 This repository contains my latest resume.
 
-Of course! Here's the text from your resume in a clean, copyable format. 
-
----
-
 # MAGADALA SAHITH BHARADWAJ
 
 **Phone:** +91 7013425267
